@@ -1,5 +1,7 @@
 # Structural-Design-and-Analysis-of-a-Reinforced-Flyover-Bridge
 This project involved the structural design and analysis of a proposed 120-metre reinforced flyover bridge in Minna, Niger State. The bridge employed a 30-metre post-tensioned concrete girder system. The work included comprehensive modelling of all structural components: pile foundation, pile cap, pier, pier cap, bearings, slab, pavement structure, and parapet. Structural performance checks were carried out to assess deflection limits, verify shear capacity, and ensure the adequacy of reinforcement detailing.
+![Image](https://github.com/user-attachments/assets/b7aca4b1-def2-46c3-9a34-9bbe0017c5bb?raw=true)
+### Bridge Model
 # Objectives
 1. To model the proposed flyover with all structural members to include:
 - pile foundation,
