@@ -1,7 +1,5 @@
 # Structural-Design-and-Analysis-of-a-Reinforced-Flyover-Bridge
 This project involved the structural design and analysis of a proposed 120-metre reinforced flyover bridge in Minna, Niger State. The bridge employed a 30-metre post-tensioned concrete girder system. The work included comprehensive modelling of all structural components: pile foundation, pile cap, pier, pier cap, bearings, slab, pavement structure, and parapet. Structural performance checks were carried out to assess deflection limits, verify shear capacity, and ensure the adequacy of reinforcement detailing.
-<video src="https://github.com/user-attachments/assets/c33ec515-488e-474e-aed6-f14a38f3b81c" controls width="600"></video>
-### Bridge Model
 # Objectives
 1. To model the proposed flyover with all structural members to include:
 - pile foundation,
@@ -12,7 +10,9 @@ This project involved the structural design and analysis of a proposed 120-metre
 - slab
 - pavement structure
 - parapet
-2. To check for deflection, if the shear force is adequate, and if the reinforcement is adequate 
+2. To check for deflection, if the shear force is adequate, and if the reinforcement is adequate
+# Tool I Used
+**MIDAS CIVIL:** A widely used bridge and civil engineering analysis software designed for the modelling, analysis, and design of complex bridge structures. It provides advanced tools for handling prestressed concrete, steel, composite, and reinforced concrete bridges.
 # Types of Loading Applied
 ## Fatigue Loads
 Fatigue loads are repeated traffic loads used to check that bridge parts won't crack or fail over time from long-term use.
@@ -22,7 +22,7 @@ These represent normal and abnormal traffic load models applied to the bridge.
 Normal Traffic on the Bridge and	Abnormal Traffic
 Includes UD (Uniformly Distributed Load) & PL (Point Load)	Includes heavy abnormal loads
 ## Finite Element Model (FEM)
-This ntroduces the finite element modelling concept. It includes the deck height and width definition.
+This introduces the finite element modelling concept. It includes the deck height and width definition.
 # Model Setup
 -	Next → Click Isoview
 -	Coordinate directions:
@@ -141,3 +141,6 @@ o	Transverse direction
 29. Pre-processing Mode
 -	“Pre-processing mode (for indicating analysis effect)”
 (This is likely referring to switching MIDAS into pre-processing view to inspect loads, nodes, elements.)
+# Analysis and Result
+<video src="https://github.com/user-attachments/assets/c33ec515-488e-474e-aed6-f14a38f3b81c" controls width="600"></video>
+### Bridge Model
