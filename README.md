@@ -40,7 +40,7 @@ This introduces the finite element modelling concept. It includes the deck heigh
 -	Click Add
 5. Material Design Setup
 -	"Material design → Type of design (standard – C50?)"
--	“ΔB → 5.46” (possibly width or section parameter
+-	“ΔB → 5.46” (possibly width or section parameter)
 6. Material Selection
 -	Material: Concrete C50, C35, OK
 (You wrote BSOT, may refer to standard code.)
@@ -141,3 +141,4 @@ o	Transverse direction
 # Analysis and Result
 <video src="https://github.com/user-attachments/assets/c33ec515-488e-474e-aed6-f14a38f3b81c" controls width="600"></video>
 ### Bridge Model
+# Conclusion
