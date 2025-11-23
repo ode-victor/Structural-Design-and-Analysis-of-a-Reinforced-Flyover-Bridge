@@ -26,9 +26,9 @@ This introduces the finite element modelling concept. It includes the deck heigh
 # Model Setup
 -	Next → Click Isoview
 -	Coordinate directions:
-o	Y ↑
-o	Z →
-o	X ↓
+ -	Y ↑
+ -	Z →
+ -	X ↓
 1. Structure Type
 -	Structure → RC / Slab Bridge → Click
 (This likely means choosing the bridge type in MIDAS.)
