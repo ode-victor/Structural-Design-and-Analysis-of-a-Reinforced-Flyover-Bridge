@@ -141,4 +141,3 @@ o	Transverse direction
 # Analysis and Result
 <video src="https://github.com/user-attachments/assets/c33ec515-488e-474e-aed6-f14a38f3b81c" controls width="600"></video>
 ### Bridge Model
-# Conclusion
