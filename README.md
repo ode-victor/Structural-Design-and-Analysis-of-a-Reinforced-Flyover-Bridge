@@ -25,10 +25,7 @@ Includes UD (Uniformly Distributed Load) & PL (Point Load)	Includes heavy abnorm
 This introduces the finite element modelling concept. It includes the deck height and width definition.
 # Model Setup
 -	Next → Click Isoview
--	Coordinate directions:
- -	Y ↑
- -	Z →
- -	X ↓
+-	Coordinate directions: Y ↑ 	Z → X ↓
 1. Structure Type
 -	Structure → RC / Slab Bridge → Click
 (This likely means choosing the bridge type in MIDAS.)
