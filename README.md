@@ -1,35 +1,27 @@
 # Structural-Design-and-Analysis-of-a-Reinforced-Flyover-Bridge
-Structural design and analysis of a 120 m reinforced flyover in Minna using 30 m post-tensioned concrete girders. Modelled all components and checked deflection, shear capacity, and reinforcement adequacy for safe bridge performance.
-PROJECT
-STRUCTURAL DESIGN AND ANALYSIS OF A REINFORCED FLYOVER BRIDGE IN MINNA, NIGER STATE 
-The span of the bridge with a length of 120m.The concrete girder used was post post-tensioned girder of 30m span.
-OBJECTIVE 
-To model the proposed flyover with all structural members to include
-pile foundation,
-pile cap
-pier
-pier cap
-bearing
-slab
-pavement structure
-parapet
-Check for deflection, if the shear force is adequate, and if the reinforcement is adequate 
-
-TYPE OF LOADING APPLIED
-1. Fatigue Loads
-•	Fatigue loads are repeated traffic loads used to check that bridge parts won't crack or fail over time from long-term use.
-________________________________________
-2. HA Loading & HB Loading
+This project involved the structural design and analysis of a proposed 120-metre reinforced flyover bridge in Minna, Niger State. The bridge employed a 30-metre post-tensioned concrete girder system. The work included comprehensive modelling of all structural components—pile foundation, pile cap, pier, pier cap, bearings, slab, pavement structure, and parapet. Structural performance checks were carried out to assess deflection limits, verify shear capacity, and ensure the adequacy of reinforcement detailing.
+# Objective
+1. To model the proposed flyover with all structural members to include:
+- pile foundation,
+- pile cap
+- pier
+- pier cap
+- bearing
+- slab
+- pavement structure
+- parapet
+2. To check for deflection, if the shear force is adequate, and if the reinforcement is adequate 
+# Type of Loading Applied
+## Fatigue Loads
+Fatigue loads are repeated traffic loads used to check that bridge parts won't crack or fail over time from long-term use.
+## HA Loading & HB Loading
 These represent normal and abnormal traffic load models applied to the bridge.
-
-3. Traffic Types
+## Traffic Types
 Normal Traffic on the Bridge and	Abnormal Traffic
 Includes UD (Uniformly Distributed Load) & PL (Point Load)	Includes heavy abnormal loads
-
-4. Finite Element Model (FEM)
-•	Introduces the finite element modelling concept.
-•	Includes the deck height and width definition.
-5. Model Setup
+## Finite Element Model (FEM)
+This ntroduces the finite element modelling concept. It includes the deck height and width definition.
+## Model Setup
 •	Next → Click Isoview
 •	Coordinate directions:
 o	Y ↑
